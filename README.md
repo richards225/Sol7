@@ -2,6 +2,8 @@
 Reproducible codes &amp; data for the 7-year stellar cycle in ZOT v1.2.7.8 (Figure 3). Proxima Centauri, 61 Cygni A and Sun. Open science for full reproducibility.
 # Sol7 – Zero Operator Theory (ZOT v1.2.7.8)
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Any commercial or derivative use must maintain the integrity of the theory and cite the primary source. For additional permissions, contact zot@zottheory.org."
 **Reproducible simulation codes for the 7-year stellar activity cycle**
 
 This repository contains all open-source Python/Colab code, data and figures supporting **Figure 3** of the paper  
